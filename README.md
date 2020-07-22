@@ -1,2 +1,2 @@
 # BABATECH
-git practice only
+git practice only from Edureka
